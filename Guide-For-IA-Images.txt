@@ -1,0 +1,15 @@
+This proyect uses Chromadb, llama 3.1 8B parameters, 
+and also can use any pdf document that you have,
+to analyze it and respond with answers acording to the document you give it.
+It was desing to be able to modify it acording to necessities, 
+you should have a good computer to run llama 3.1 8B, 
+and if you dont, you can use other images of any IA motor,
+for example llama 3.1 5B or any other that you can find,
+where can you find any?, theres Hugging Face:
+Link: https://huggingface.co/models?sort=trending&search=meta
+
+here you can find any IA model that you want, 
+for example there is a llama 3.1 1B that will run smoothly, 
+but with less acurate answers.
+Remember to read the ReadME(install-requirements),
+its important for the program to work.
